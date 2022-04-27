@@ -1,3 +1,3 @@
-Primeira mudança.
-Segunda mudança.
-Terceira mudança.
+Primeira mudanÃ§a.
+Segunda mudanÃ§a.
+Terceira mudanÃ§a.
